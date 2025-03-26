@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="med-interact",
-    version="0.0.3",
+    version="0.0.4",
     packages=find_packages(),
     install_requires=[
         "requests",
@@ -16,7 +16,7 @@ setup(
     description="Python library to check drug interactions, side effects and harmful effects.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/isranetoo/med-interact",
+    url="https://github.com/MedInteract/Med-Interact",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
