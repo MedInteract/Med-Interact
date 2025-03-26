@@ -1,16 +1,13 @@
-## Hi there 👋
+# MedInteract
 
-<!--
-**MedInteract/MedInteract** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MedInteract is a Python library for querying drug interactions, side effects, and predictions when combining drugs.
 
-Here are some ideas to get you started:
+## Installation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+pip install med-interact
+```
+
+![PyPI Logo](https://pypi.org/static/images/logo-small.8998e9d1.svg)
+<br>
+[PyPI: med-interact](https://pypi.org/project/med-interact/0.0.1/)
